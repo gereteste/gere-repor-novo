@@ -1,2 +1,0 @@
-# gere-repor-novo
-repor
