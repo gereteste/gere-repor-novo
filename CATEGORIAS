@@ -48,9 +48,8 @@
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]GDRIVE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601409.us.archive.org/18/items/icon_20200112/icon.png</thumbnail>
 <externallink><item>
-<title>a hora mais escura</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kwrSYn4K8qN90qgrr8NXYG6I7aujmyr4/view?usp=drivesdk</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGU0N7E7k6e24N3TLxE05dWQaWV.jpg</thumbnail>
+<title></title>
+<link>plugin://</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zy5hyStEkQyjZgYtvKzJQBr7MpJ.jpg</fanart>
 <info></info>
 </item>
