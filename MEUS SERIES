@@ -1,54 +1,72 @@
 
-<channels>
-<channel>
-<name>The Witcher - 1ª Temporada</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
-<externallink>http://cdn3.canais.link/RCServer07/ondemand/THEWTCHRT01EP01.mp4?attachment=true</externallink>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</fanart>
-<info>Geralt de Rívia, um mutante caçador de monstros, sai em busca de seu destino em um mundo turbulento, onde as pessoas podem ser mais perversas que as criaturas selvagens.
-
-
-<channels>
-<channel>
-<name>ESPERANDO</name>
+<item>
+<title>The Witcher - DUBLADO</title>
+<link></link>
 <thumbnail></thumbnail>
-<externallink>https://</externallink>
 <fanart></fanart>
-<info>
+<info></info>
+</item>
 
-
-[COLOR deeppink]|[/COLOR] - LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>ESPERANDO</name>
+<item>
+<title>The Witcher - 1ª Temporada - Episódio 02 - Apenas Quatro</title>
+<link>https://server2a.amilpublicidades.com/RCServer07/ondemand/THEWTCHRT01EP02.mp4?attachment=true</link>
 <thumbnail></thumbnail>
-<externallink>https://</externallink>
 <fanart></fanart>
-<info>
+<info></info>
+</item>
 
-
-[COLOR deeppink]|[/COLOR] - LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>ESPARANDO</name>
+<item>
+<title>The Witcher - 1ª Temporada - Episódio 03 - Lua Da Traição</title>
+<link>https://server2a.amilpublicidades.com/RCServer07/ondemand/THEWTCHRT01EP03.mp4?attachment=true</link>
 <thumbnail></thumbnail>
-<externallink>https://</externallink>
 <fanart></fanart>
-<info>
+<info></info>
+</item>
 
+<item>
+<title>The Witcher - 1ª Temporada - Episódio 04 - Banquetes, Bastardos e Funerais</title>
+<link>https://server2a.amilpublicidades.com/RCServer07/ondemand/THEWTCHRT01EP04.mp4?attachment=true</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
-[COLOR deeppink]|[/COLOR] - LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+<item>
+<title>The Witcher - 1ª Temporada - Episódio 05 - Desejos Reprimidos</title>
+<link>https://server2a.amilpublicidades.com/RCServer07/ondemand/THEWTCHRT01EP05.mp4?attachment=true</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>The Witcher - 1ª Temporada - Episódio 06 - Espécies Raras</title>
+<link>https://server2a.amilpublicidades.com/RCServer07/ondemand/THEWTCHRT01EP06.mp4?attachment=true</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>The Witcher - 1ª Temporada - Episódio 07 - Antes da Queda</title>
+<link>https://server2a.amilpublicidades.com/RCServer07/ondemand/THEWTCHRT01EP07.mp4?attachment=true</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>The Witcher - 1ª Temporada - Episódio 08 - Muito Mais</title>
+<link>https://server2a.amilpublicidades.com/RCServer07/ondemand/THEWTCHRT01EP08.mp4?attachment=true</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
