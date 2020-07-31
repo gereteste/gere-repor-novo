@@ -1,264 +1,317 @@
-<item> TELECINE TV ONLINE GERE
-<title>CANAIS FILMES & SÉRIES</title>
-<link>ignoreme</link>
-<thumbnail>https://i.imgur.com/ENEZnTl.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]A&E[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]aie.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/pqSX7eT.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]AMC[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]amc.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/Mafd95X.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]AXN[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]axn.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/oRfQCeI.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]CINEMAX[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]cinemax.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/XCDTLeW.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]CURTA![/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]curta.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/XnzmNUc.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]FOX CHANNEL[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]fox.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/bP8GvBx.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]FOX PREMIUM 1[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]foxpremium1.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/ZCCVDnq.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]FOX PREMIUM 2[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]foxpremium2.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/haZ4BHw.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]FX[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]fx.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/N5WhwKu.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]FOXLIFE[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]foxlife.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/592oYEI.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]HBO[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]hbo.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/Ys5kKaJ.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]HBO 2[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]hbo2.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/ED5uPWY.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]HBO FAMILY[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]hbofamily.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/ry360sK.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]HBO +PLUS[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]hboplus.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/bU5N15h.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]HBO SIGNATURE[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]hbosignature.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/EhfLRBe.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]MAX[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]max.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/vM0hdrS.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]MAX PRIME[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]maxprime.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/IFxqhjo.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]MAX UP[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]maxup.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/eCcLvOr.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]MEGAPIX[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]megapix.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/QktIAYD.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]PARAMOUNT CHANNEL[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]paramount.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/q6JHINk.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]SONY CHANNEL[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]sony.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/t1Tc30I.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]SPACE[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]space.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/8fCIt5Z.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]STUDIO UNIVERSAL[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]studiouniversal.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/UoDZU4e.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]SYFY[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]syfy.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/L1bcDzB.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TELECINE ACTION[/B][/COLOR] [COLOR dimgrey][B](2 Itens)[/B][/COLOR]</title></title>
- 
-<link>$doregex[CONEXAOTUBE]telecineaction.m3u8|Referer=https://canaisgratis.info/contadorcanais/$nome=[COLOR khaki][B]TELECINE ACTION[/B][/COLOR] [COLOR green] [B]SERVER [COLOR orange]1 HD[/B][/COLOR] [COLOR red][B][/B][/COLOR]</link> <regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
- 
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_31aaaf3fcf6f91f41d47eed1bec4dbdb2df7e0d2/playlist.m3u8$nome=[COLOR khaki][B]TELECINE ACTION[/B][/COLOR] [COLOR green] [B]SERVER [COLOR orange]2 SD[/B][/COLOR]</link>
- 
-<thumbnail>http://uploaddeimagens.com.br/images/002/469/562/original/20191031_160114.png</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TELECINE CULT[/B][/COLOR] [COLOR dimgrey][B](2 Itens)[/B][/COLOR]</title>
- 
-<link>:http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinecult_8d255e1e_c39963a8de2340d49496e1495ce86c55231769d9/playlist.m3u8$nome=[COLOR khaki][B]TELECINE CULT[/B][/COLOR] [COLOR green] [B]SERVER [COLOR orange]1 SD[/B][/COLOR]</link>
- 
-<link>$doregex[CONEXAOTUBE]telecinecult.m3u8|Referer=https://canaisgratis.info/contadorcanais/$nome=[COLOR khaki][B]TELECINE CULT[/B][/COLOR] [COLOR green] [B]SERVER [COLOR orange]2 HD[/B][/COLOR]</link> <regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
- 
- 
-<thumbnail>http://uploaddeimagens.com.br/images/002/469/620/original/20191031_160644.png</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TELECINE FUN[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]telecinefun.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
-<thumbnail>http://uploaddeimagens.com.br/images/002/469/632/original/20191031_161154.png</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TELECINE PIPOCA[/B][/COLOR] [COLOR dimgrey][B](2 Itens)[/B][/COLOR]</title>
- 
-<link>$doregex[CONEXAOTUBE]telecinepipoca.m3u8|Referer=https://canaisgratis.info/contadorcanais/$nome=[COLOR khaki][B]TELECINE PIPOCA[/B][/COLOR] [COLOR green] [B]SERVER [COLOR orange]1 HD[/B][/COLOR]</link> <regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
- 
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_2d015c75ca9f984fa57def765ea1c421371e828f/playlist.m3u8$nome=[COLOR khaki][B]TELECINE PIPOCA[/B][/COLOR] [COLOR green] [B]SERVER [COLOR orange]2 HD[/B][/COLOR]</link>
- 
-<thumbnail>http://uploaddeimagens.com.br/images/002/469/658/original/20191031_161045.png</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TELECINE PREMIUM[/B][/COLOR] [COLOR dimgrey][B](2 Itens)[/B][/COLOR]</title>
- 
-<link>$doregex[CONEXAOTUBE]telecinepremium.m3u8|Referer=https://canaisgratis.info/contadorcanais/$nome=[COLOR khaki][B]TELECINE PREMIUM[/B][/COLOR] [COLOR green] [B]SERVER [COLOR orange]1 HD[/B][/COLOR]</link> <regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
- 
-<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremium_a929eb33_69e28ed0c4f6ef1f06471a855be68cb3f813efd9.m3u8/$nome=[COLOR khaki][B]TELECINE PREMIUM[/B][/COLOR] [COLOR green] [B]SERVER [COLOR orange]2 SD[/B][/COLOR]</link>
- 
- 
-<thumbnail>http://uploaddeimagens.com.br/images/002/469/672/original/20191031_160930.png</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TELECINE TOUCH[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]telecinetouch.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>http://uploaddeimagens.com.br/images/002/469/681/original/20191031_161214.png</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TNT[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]tnt.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/90bc30L.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TNT SÉRIES[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]tntseries.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/aNSR5pK.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TCM[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]tcm.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/MUwH4pR.png</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]UNIVERSAL TV[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]universal.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/msa6vSn.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]WARNER TV[/B][/COLOR]</title>
-<link>$doregex[CONEXAOTUBE]warner.m3u8|Referer=https://canaisgratis.info/contadorcanais/</link>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/GcpSGmV8</page></regex>
-<thumbnail>https://i.imgur.com/Pt0Nl6v.jpg</thumbnail>
-</item>
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]LISTA DE CANAIS [/COLOR]-[COLOR green][B] ON [/B][/COLOR][COLOR red][B] OFF [/B][/COLOR][COLOR mediumblue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]
+</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- SERVIDORES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]ATUALIZADO - [/COLOR][COLOR yellow]26-JUNHO-2020[/COLOR] [COLOR mediumblue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]
+</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- SERVIDORES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]|||[/COLOR][COLOR mediumblue]|||[/COLOR][COLOR black]|||[/COLOR] [COLOR green][B][/B][/COLOR][COLOR white][B]REDECANAIS[/B][/COLOR] [COLOR black]|[/COLOR][COLOR yellow] NOVIDADE[/COLOR] [COLOR black]|[/COLOR][COLOR lime][B] ON [/B][/COLOR][COLOR red][B] OFF [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/REDECANAIS.png</thumbnail>
+<externallink>http://pastebin.com/raw/YhhSP8xy</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]|||[/COLOR][COLOR mediumblue]|||[/COLOR][COLOR black]|||[/COLOR] [COLOR green][B][/B][/COLOR][COLOR white][B]CANAIS TWTUTORIAIS[/B][/COLOR] [COLOR black]|[/COLOR][COLOR yellow] NOVIDADE[/COLOR] [COLOR black]|[/COLOR][COLOR lime][B] ON [/B][/COLOR][COLOR red][B] OFF [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>http://pastebin.com/raw/YhhSP8xy</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR green][B][/B][/COLOR][COLOR white][B]CANAIS ABERTOS[/B][/COLOR] -[COLOR green][B] ON [/B][/COLOR][COLOR red][B] OFF [/B][/COLOR][COLOR mediumblue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>http://pastebin.com/raw/YhhSP8xy</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+!----channels>
+!---channel>
+<name>[COLOR darkorange]|||[/COLOR][COLOR deepskyblue]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue][/COLOR][COLOR green][B][/B][/COLOR][COLORyellow][B][/B][/COLOR][COLOR yellow][/COLOR][B][COLOR darkorange]BIG BROTHER BRASIL[/COLOR] - [COLOR deepskyblue]2020[/COLOR][/B][COLOR black] |[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<thumbnail>https://archive.org/download/bbbtw/bbbtw.png</thumbnail>
+<externallink>http://pastebin.com/raw/YhhSP8xy</externallink>
+<fanart>https://ia601401.us.archive.org/31/items/bbb_20200122_202001/bbb.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+!---/channel>
+!---/channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-1[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>http://pastebin.com/raw/YhhSP8xy</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-2[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>http://pastebin.com/raw/YhhSP8xy</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-3[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>http://pastebin.com/raw/YhhSP8xy</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-4[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] OFF [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>http://pastebin.com/raw/YhhSP8xy</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-5[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] OFF [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/20062019/fuckyou/master/0005</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-6[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] OFF [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>http://pastebin.com/raw/YhhSP8xy</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-7[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] OFF [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>https://pastebin.com/raw/DUTEjDXt</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-8[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] OFF [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>http://pastebin.com/raw/YhhSP8xy</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-9[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] OFF [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/T09</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-10[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] OFF [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>https://pastebin.com/raw/h3EyDmLb</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-11[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] OFF [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/T11</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-12[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] OFF [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/T23</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]REGIONAIS VARIADOS[/COLOR] [COLOR yellow]|[/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BUILDTONYWARLLEY/TONYWARLLEY/master/080619</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]TW[/B][/COLOR][COLORyellow][B]Tutoriais[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]DAZN FUTEBOL[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/CANAIS.png</thumbnail>
+<externallink>http://pastebin.com/raw/YhhSP8xy</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/fanart2.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
